@@ -1,0 +1,19 @@
+{
+    "name": "brazil/clubs",
+    "description": "gerenciamento de clubes",
+    "type": "project",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Brazil\\Clubs\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gustavo Nunes",
+            "email": "gustavonunesm29@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

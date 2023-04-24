@@ -1,0 +1,11 @@
+{
+  "name": "clubes",
+  "version": "1.0.0",
+  "description": "Gerenciameto de Times",
+  "main": "index.js",
+  "author": "Gustavo Nunes <gustavonunesm29@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "5.2"
+  }
+}
